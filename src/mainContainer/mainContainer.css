@@ -1,0 +1,58 @@
+.mainContainer {
+    height: 86vh;
+  }
+  .firstLow {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+    height: 21vh;
+  }
+  .secondLow {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+    height: 21vh;
+  }
+  .thirdLow {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+    height: 21vh;
+  }
+  .forthLow {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+    height: 21vh;
+  }
+  
+  .firstCol {
+    width: 25%;
+    border: 1px solid grey;
+    margin: 5px;
+  }
+  
+  .secondCol {
+    width: 25%;
+    border: 1px solid grey;
+    margin: 5px;
+  
+  }
+  
+  .thirdCol {
+    width: 25%;
+    border: 1px solid grey;
+    margin: 5px;
+  
+  }
+  
+  .forthCol {
+    width: 25%;
+    border: 1px solid grey;
+    margin: 5px;
+  
+  }
